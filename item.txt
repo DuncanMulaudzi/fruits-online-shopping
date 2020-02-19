@@ -1,0 +1,15 @@
+apple Apple[fruits] 1 1 1.50
+orange Orange[fruits] 1.50 2 2.50
+carrots Carrots[vegetables] 3 4 5
+strawberry Strawberry[fruits] 5 5 7
+raspberry Raspberry[fruits] 5 5 10
+cabbage Cabbage[vegetables] 4 1 6
+paprika Paprika[vegetables] 2 1 4
+tomatoes Tomatoes[vegetables] 3 4 5
+potatoes Potatoes[vegetables] 4 4 5
+peach Peach[fruits] 3 1 4
+peas Peas[vegetables] 4 3 5
+kiwi Kiwi[fruits] 4 1 5
+pepper Pepper[vegetables] 3 1 4
+lemon Lemon[fruits] 2 1 4
+banana Banana[fruits] 3 3 5
